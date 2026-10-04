@@ -144,6 +144,7 @@ Hello! I’m Jovelyn, a BSIT student specializing in web and application develop
   <img src="https://github.com/bebeyow/assets/blob/main/logo1.png?raw=true" width="150" alt="Barangay Portal"/>
   <img src="https://github.com/bebeyow/assets/blob/main/logo2.png?raw=true" width="150" alt="Pet Patch Clinic"/>
   <img src="https://github.com/bebeyow/assets/blob/main/logo3.png?raw=true" width="150" alt="IslandWheels"/>
+  <img src="https://github.com/bebeyow/assets/blob/main/logo4.png?raw=true" width="150" alt="Endangered Rare Shark"/>
 </p>
 
 ### Barangay Portal
